@@ -1,0 +1,1 @@
+CREATE TABLE empresas (id INT PRIMARY KEY AUTO_INCREMENT, ruc VARCHAR(255), razonSocial VARCHAR(255), direccion VARCHAR(255), estado Boolean);
